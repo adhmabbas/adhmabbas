@@ -41,11 +41,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/adhmabbas/YOUR_RESTAURANT_REPO"><b>AI Restaurant Customer Service (RAG + Telegram Bot)</b></a></td>
+      <td><a href="https://github.com/adhmabbas/dragoza-restaurant-ai-agent"><b>AI Restaurant Customer Service (RAG + Telegram Bot)</b></a></td>
       <td>n8n, Gemini, Supabase pgvector, Google Drive, Google Sheets, Telegram</td>
       <td>An AI agent that classifies customer intent on Telegram, answers from a RAG knowledge base, and manages orders directly in Google Sheets.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/adhmabbas/YOUR_RESTAURANT_REPO?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/adhmabbas/YOUR_RESTAURANT_REPO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/adhmabbas/dragoza-restaurant-ai-agent?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/adhmabbas/dragoza-restaurant-ai-agent?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/adhmabbas/AI-Maze-Solver"><b>Maze Solver</b></a></td>
